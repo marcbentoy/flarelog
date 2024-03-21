@@ -26,3 +26,31 @@
     "line": 20
   }
 }
+2024/03/21 20:54:48.695169 main.go:182: INFO:  Info Level Log {
+  "source": {
+    "file": "/home/marcvincentbentoy/dev/flarelogger/main.go",
+    "function": "main.test1",
+    "line": 17
+  }
+}
+2024/03/21 20:54:48.695448 main.go:182: DEBUG:  This is a debug message {
+  "source": {
+    "file": "/home/marcvincentbentoy/dev/flarelogger/main.go",
+    "function": "main.test1",
+    "line": 18
+  }
+}
+2024/03/21 20:54:48.695522 main.go:182: WARN:  This is a warn message {
+  "source": {
+    "file": "/home/marcvincentbentoy/dev/flarelogger/main.go",
+    "function": "main.test1",
+    "line": 19
+  }
+}
+2024/03/21 20:54:48.695584 main.go:182: ERROR:  This is an error message {
+  "source": {
+    "file": "/home/marcvincentbentoy/dev/flarelogger/main.go",
+    "function": "main.test1",
+    "line": 20
+  }
+}
